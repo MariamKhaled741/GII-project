@@ -9,7 +9,7 @@ The goal was to visualize insights and patterns using **Power BI** dashboards.
 - Asmaa Abdallah
 - Mariam Farrag
 - Rania Ali
-- ا
+  
 ## 🧾 Dataset
 The dataset focuses on **gender equality indicators** across different countries, including:
 - Health
